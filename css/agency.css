@@ -399,6 +399,28 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+#shop .shop-item {
+    height: 60px;
+}
+
+#shop .shop-title {
+    color: #6b5736;
+}
+
+#shop .shop-image {
+    position: relative;
+    width: 80%;
+    height: 80%;
+    border: 2px solid #6b5736;
+    text-align: center;
+    color: #fff;
+}
+
+#shop .shop-heading {
+    margin: 15px 0;
+    text-transform: none;
+}
+
 #education .education-item {
     right: 0;
     margin: 0 0 15px;
